@@ -24,7 +24,13 @@
     <ClCompile Include="ex03_max_min_vector.c" />
     <ClCompile Include="ex04_vector_invertido.c" />
     <ClCompile Include="ex05_suma_matrices.c" />
-    <ClCompile Include="main..c" />
+    <ClCompile Include="ex07_busqueda_lineal.c" />
+    <ClCompile Include="ex08_bubble_sort_asc.c" />
+    <ClCompile Include="main.c" />
+    <ClCompile Include="ex06_producto_escalar_vectores.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".gitignore" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
