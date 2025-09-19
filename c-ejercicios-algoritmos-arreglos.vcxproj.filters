@@ -42,6 +42,18 @@
     <ClCompile Include="ex08_bubble_sort_asc.c">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
+    <ClCompile Include="ex09_contar_repetidos.c">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="ex10_suma_diagonal.c">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="ex11_matriz_invertida.c">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="ex12_suma_vectores_con_punteros.c">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore" />

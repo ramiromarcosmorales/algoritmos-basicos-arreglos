@@ -26,6 +26,10 @@
     <ClCompile Include="ex05_suma_matrices.c" />
     <ClCompile Include="ex07_busqueda_lineal.c" />
     <ClCompile Include="ex08_bubble_sort_asc.c" />
+    <ClCompile Include="ex09_contar_repetidos.c" />
+    <ClCompile Include="ex10_suma_diagonal.c" />
+    <ClCompile Include="ex11_matriz_invertida.c" />
+    <ClCompile Include="ex12_suma_vectores_con_punteros.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="ex06_producto_escalar_vectores.c" />
   </ItemGroup>
